@@ -1,0 +1,3 @@
+Model,MAE,RMSE
+Baseline (junction-hour average),12.02,18.68
+Random Forest (combined),4.81,7.89
